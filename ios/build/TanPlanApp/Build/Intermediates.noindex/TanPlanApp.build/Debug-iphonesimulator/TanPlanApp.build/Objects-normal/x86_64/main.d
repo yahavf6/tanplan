@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/TanPlanApp/main.m \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/TanPlanApp/AppDelegate.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/UMReactNativeAdapter/UMModuleRegistryAdapter.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/UMCore/UMModuleRegistryProvider.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/UMCore/UMModuleRegistry.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/UMCore/UMInternalModule.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/UMCore/UMDefines.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/UMCore/UMExportedModule.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/UMCore/UMViewManager.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/UMCore/UMModuleRegistryDelegate.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/UMCore/UMSingletonModule.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/UMCore/UMAppDelegateWrapper.h

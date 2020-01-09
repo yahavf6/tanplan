@@ -1,0 +1,38 @@
+dependencies: \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/RNReanimated/ios/Nodes/REAJSCallNode.m \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Target\ Support\ Files/RNReanimated/RNReanimated-prefix.pch \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/RNReanimated/ios/Nodes/REAJSCallNode.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/RNReanimated/ios/Nodes/REANode.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/RNReanimated/ios/REANodesManager.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/RNReanimated/ios/REAModule.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTUIManagerObserverCoordinator.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTUIManagerUtils.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/RNReanimated/ios/Nodes/REAValueNode.h

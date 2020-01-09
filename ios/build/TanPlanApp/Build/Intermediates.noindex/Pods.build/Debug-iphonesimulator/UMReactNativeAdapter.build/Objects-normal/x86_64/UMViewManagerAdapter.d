@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/node_modules/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/UMViewManagerAdapter/UMViewManagerAdapter.m \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Target\ Support\ Files/UMReactNativeAdapter/UMReactNativeAdapter-prefix.pch \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/node_modules/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/UMViewManagerAdapter/UMViewManagerAdapter.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Private/UMCore/UMViewManager.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Private/UMCore/UMExportedModule.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Private/UMCore/UMDefines.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Private/UMCore/UMInternalModule.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/node_modules/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/UMBridgeModule.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/node_modules/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/UMNativeModulesProxy/UMNativeModulesProxy.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Private/UMCore/UMModuleRegistry.h \
+  /Users/yahavfuchs/WebstormProjects/TannPlan/ios/Pods/Headers/Private/UMCore/UMModuleRegistryDelegate.h
