@@ -5,7 +5,8 @@ require_relative '../node_modules/react-native-unimodules/cocoapods'
 target 'TanPlanApp' do
 
   rnPrefix = "../node_modules/react-native"
-  
+  rn_maps_path = '../node_modules/react-native-maps'
+
   # React Native and its dependencies
   pod 'FBLazyVector', :path => "#{rnPrefix}/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "#{rnPrefix}/Libraries/FBReactNativeSpec"
@@ -40,7 +41,13 @@ target 'TanPlanApp' do
   pod 'RNGestureHandler', :podspec => '../node_modules/react-native-gesture-handler/RNGestureHandler.podspec'
   pod 'RNReanimated', :podspec => '../node_modules/react-native-reanimated/RNReanimated.podspec'
   pod 'RNScreens', :path => '../node_modules/react-native-screens'
+  rn_maps_path = '../node_modules/react-native-maps'
+    pod 'react-native-google-maps', :path => rn_maps_path
+    pod 'GoogleMaps'
+    pod 'Google-Maps-iOS-Utils'
 
   # Automatically detect installed unimodules
   use_unimodules!
+  pod 'react-native-maps', :path => '../node_modules/react-native-maps'
+
 end
