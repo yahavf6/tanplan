@@ -19,6 +19,7 @@ const AppHeader = props => {
                 />}
                 backgroundColor={'#ffffff'}
                 containerStyle={styles.headerContainer}
+                centerContainerStyle={styles.headerCol}
             />
         </View>
     )
@@ -29,7 +30,11 @@ const styles = StyleSheet.create({
     },
     headerContainer: {
         borderBottomColor: '#bdc1c6',
-        borderBottomWidth: 1
+        borderBottomWidth: 1,
+        paddingBottom: 10
+    },
+    headerCol: {
+        backgroundColor: 'transparent'
     }
 });
 

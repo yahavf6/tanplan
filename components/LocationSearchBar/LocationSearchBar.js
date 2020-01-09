@@ -15,7 +15,6 @@ const LocationSearchBar = props => {
                 onChangeText={search => setSearch(search)}
                 value={search}
                 searchIcon={<Icon name={'search'}/>}
-                lightTheme={true}
                 containerStyle={styles.searchBarContainer}
                 inputStyle={styles.searchInput}
                 inputContainerStyle={styles.inputContainerStyle}
@@ -27,15 +26,28 @@ const LocationSearchBar = props => {
 const styles = StyleSheet.create({
     container: {
         width: '100%',
+        backgroundColor: 'transparent',
+        borderWidth: 0, //no effect
+        shadowColor: 'white', //no effect
+        borderBottomColor: 'transparent',
+        borderTopColor: 'transparent'
     },
     searchBarContainer: {
-        backgroundColor: 'transparent'
+        backgroundColor: 'transparent',
+        borderWidth: 0, //no effect
+        shadowColor: 'white', //no effect
+        borderBottomColor: 'transparent',
+        borderTopColor: 'transparent'
     },
     searchInput: {
-        backgroundColor: 'transparent'
+        backgroundColor: 'transparent',
+        borderWidth: 0, //no effect
+        shadowColor: 'white', //no effect
+        borderBottomColor: 'transparent',
+        borderTopColor: 'transparent'
     },
     inputContainerStyle: {
-        backgroundColor: '#f0f0f0',
+        backgroundColor: '#f0f0f0'
     }
 });
 
