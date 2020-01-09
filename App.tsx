@@ -1,18 +1,19 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import AppHeader from './components/AppHeader/AppHeader'
+import LocationSearchBar from './components/LocationSearchBar/LocationSearchBar'
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <
-      <Text>Open up App.tsx to start working on your app! Yahav</Text>
+      <AppHeader/>
     </View>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
-    flexDirection: 'column'
+    flexDirection: 'column',
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
